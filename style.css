@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  background: #f5f5f5;
+  padding: 2rem;
+}
+
+.container {
+  background: white;
+  border-radius: 10px;
+  padding: 2rem;
+  max-width: 600px;
+  margin: auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+}
+
+.data-block {
+  margin-bottom: 1rem;
+}
+
+.label {
+  font-weight: bold;
+}
